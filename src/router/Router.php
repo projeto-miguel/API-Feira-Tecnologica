@@ -1,6 +1,6 @@
 <?php
 
-namespace Api;
+namespace Api\Router;
 
 class Router{
     private static $routes = [];    
